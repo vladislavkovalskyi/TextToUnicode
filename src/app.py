@@ -29,3 +29,4 @@ print(
     f"1) Дописана в файл TextToUnicode1.txt\n"
     f"2) Записана в файл TextToUnicode2.txt"
 )
+input()
